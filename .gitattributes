@@ -40,10 +40,10 @@
 *.json linguist-detectable=false
 *.json linguist-documentation=false
 *.json linguist-language=JSON
-# Meson Source file
-*.build linguist-detectable=true
-*.build linguist-documentation=false
-*.build linguist-language=Meson
+# M4 Source file
+*.m4 linguist-detectable=true
+*.m4 linguist-documentation=false
+*.m4 linguist-language=M4
 # YAML (YAML Ain't Markup Language) document
 # Do not include, as it would become a dominant language that shouldn't be the language people refer this project to
 *.yml linguist-detectable=false
@@ -178,6 +178,6 @@
 
 # File info
 # File type: gitattributes file (.gitattributes)
-# File version: 2 (2022, Friday, September 2nd at 1:50 pm PST)
+# File version: 3 (2022, Wednesday, September 7th at 5:39 pm PST)
 # Line count (including blank lines and compiler line): 184
 # End of script
